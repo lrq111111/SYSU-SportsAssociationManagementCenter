@@ -18,7 +18,7 @@ That's a respository dedicated to storing information about East Campus Sports A
 2021届中大体社管全体成员：
 ```
 负责人：曹懿月、冯永佳
-秘书部：董庆旋、
-组织部：汪逸凡、林锐琪
+秘书部：董庆旋、姚冬坦、李文兵、徐雅妍、吕柏萱、刘悦
+组织部：汪逸凡、林锐琪、林驰颖、廖紫珊、王天骄、王良辰
 媒体部：曾敏玲、赵肖飞、胡琪、彭晨晗、廖明烺、张文沁
 ```
